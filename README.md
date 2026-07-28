@@ -6,7 +6,7 @@ Java Developer (fresher) building full-stack systems with Spring Boot — with a
 - 🌱 Also comfortable across **MongoDB, Express.js, React.js, and Node.js**
 - 🎯 Actively practicing **Data Structures & Algorithms**
 - 🎓 BTech in Internet of Things — Kakatiya Institute of Technology & Science, Warangal
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/sriramshivanadhuni-a175872b7)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sriram-shivanadhuni-a175872b7/)
 
 ---
 
