@@ -10,7 +10,7 @@ Java Developer (fresher) building full-stack systems with Spring Boot — with a
 
 ---
 
-### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
 **[ServicePoint](https://github.com/Sriram-0305/ServicePoint)** — Full-stack service marketplace platform
 Connects customers with verified local professionals (electricians, plumbers, painters, etc.)
@@ -26,6 +26,6 @@ Connects customers with verified local professionals (electricians, plumbers, pa
 - *(Add 1-2 more specific details here — e.g. what roles/users it supports, or a key feature)*
 
 ---
-
+-->
 ### 🛠️ Tech I work with
 `Java` · `Spring Boot` · `MySQL` · `MongoDB` · `Express.js` · `React.js` · `Node.js` · `Git`
