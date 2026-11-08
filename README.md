@@ -27,5 +27,5 @@ Connects customers with verified local professionals (electricians, plumbers, pa
 
 ---
 -->
-### 🛠️ Tech I work with
+### Tech I work with
 `Java` · `Spring Boot` · `MySQL` · `MongoDB` · `Express.js` · `React.js` · `Node.js` · `Git`
