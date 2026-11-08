@@ -2,11 +2,11 @@
 
 Java Developer (fresher) building full-stack systems with Spring Boot — with additional hands-on experience across the MERN stack.
 
-- 🔭 Currently building backend systems with **Java, Spring Boot, Spring Security, and MySQL**
-- 🌱 Also comfortable across **MongoDB, Express.js, React.js, and Node.js**
-- 🎯 Actively practicing **Data Structures & Algorithms**
-- 🎓 BTech in Internet of Things — Kakatiya Institute of Technology & Science, Warangal
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sriram-shivanadhuni-a175872b7/)
+- Currently building backend systems with **Java, Spring Boot, Spring Security, and MySQL**
+- Also comfortable across **MongoDB, Express.js, React.js, and Node.js**
+- Actively practicing **Data Structures & Algorithms**
+- BTech in Internet of Things — Kakatiya Institute of Technology & Science, Warangal
+- Reach me on [LinkedIn](https://www.linkedin.com/in/sriram-shivanadhuni-a175872b7/)
 
 ---
 
